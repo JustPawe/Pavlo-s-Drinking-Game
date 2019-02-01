@@ -1,0 +1,194 @@
+0;Question type;Question;Correct answer;Wrong Answer1;Wrong Answer2;Wrong Answer3
+1;TrueOrFalse;David Tennant is an actor;True;False;#NoAnswerHere;#NoAnswerHere
+2;MultipChoice;Nikola Tesla is a(n);scientist;car brand;singer;Polish prince;
+3;DrinkOrDoIt;Do a handstand for 20 seconds!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+4;MultipChoice;The Eiffel Tower is located where in Paris?;Champ de Mars;Jardin des Plantes;Parc de Belleville;Bois de Boulogne
+5;TrueOrFalse;As far as has ever been reported, no-one has ever seen an ostrich bury its head in the sand.;True;False;#NoAnswerHere;#NoAnswerHere
+6;DrinkOrDoIt;Sing 'Bad Romance' from Lady Gaga for 20 seconds;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+7;MultipChoice;Who starred in the 1959 epic film 'Ben-Hur'?;Charlton Heston;Clark Gable;Errol Flynn;Lee Marvin
+8;MultipChoice;The British Naval Ensign features a Union Jack in which corner?;Top left;Top right;Bottom left;Bottom right
+9;TrueOrFalse;In ancient Rome, a special room called a vomitorium was available for diners to purge food in during meals.;False;True;#NoAnswerHere;#NoAnswerHere
+10;TrueOrFalse;The average person will shed 10 pounds of skin during their lifetime.;False;True;#NoAnsweHere;#NoAnswerHere
+11;DrinkOrDoItQuest;If you speak you have to drink one for @4@ turns!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+12;DrinkOrDoItQuest;Choose one player, and if he/she speaks everyone has to drink for @2@ turns!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+13;TrueOrFalse;The fastest time to eat 15 Ferrero Rocher is 1 minute 10 seconds.;False;True;#NoAnswerHere;#NoAnswerHere
+14;MultipChoice;Which castle was the childhood home of Elizabeth Bowes-Lyon, the late Queen Mother?;Glamis Castle;Craigievar Castle;Invergarry Castle;Loch Leven Castle
+15;MultipChoice;Which winged archer is represented in Piccadilly Circus, London?;Anteros;Eros;Cupid;Amor
+16;TrueOrFalse;A man from the USA consumed his 26,000th Big Mac on 11th October 2012, after eating at least one a day for forty years.;True;False;#NoAnswerHere;#NoAnswerHere
+17;DrinkOrDoIt;Kiss any of the Players;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+18;DrinkOrDoIt;Pick a Player who will tell you, who you have to kiss;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+19;MultipChoice;In which country is HP Sauce now manufactured?;Netherlands;Ireland;England;Scotland
+20;MultipChoice;Airfix released its first aircraft kit in 1955 - a model of the Supermarine Spitfire - in what scale?;1:72;1:48;1:24;1:12
+21;TrueOrFalse;The record for most needles inserted into the head is 1,500.;False;True;#NoAnswerHere;#NoAnswerHere
+23;TrueOrFalse;Alliumphobia is a fear of garlic.;True;False;#NoAnswerHere;#NoAnswerHere
+24;MultipChoice;How many legs are visible on the Isle Of Man flag?;3;2;4;5
+25;TrueOrFalse;Alfred Hitchcock had no belly button as it was removed during surgery.;True;False;#NoAnswerHere;#NoAnswerHere
+26;TrueOrFalse;Geri Halliwell named her daughter ‘Greenbell Madonna’.;False;True;#NoAnswerHere;#NoAnswerHere
+27;TrueOrFalse;‘Fauntleroy’ is the middle name of Donald Duck.;True;False;#NoAnswerHere;#NoAnswerHere
+28;MultipChoice;Which of these Scottish cities is the most northerly?;Inverness;Aberdeen;Dundee;Stirling
+29;MultipChoice;What is the van called in the Scooby Doo cartoon series?;Mystery Machine;Chiller Camper;Adventure Wagon;Riddle Roadster
+30;DrinkOrDoIt;Do 20 squats;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+31;DrinkOrDoIt;Sing 'Radioactive' from Imagine Dragons;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+32;TrueOrFalse;The ‘black box’ in an aeroplane is black.;False;True;#NoAnswerHere;#NoAnswerHere
+33;MultipChoice;In which county was Vice Admiral Horatio Nelson born?;Norfolk;Cumbria;Hampshire;Kent
+34;MultipChoice;What is the name of Batman's butler?;Alfred;Archibald;Charles;Wilfred
+35;MultipChoice;Which ancient kingdom had Prague as its capital?;Bohemia;Carpathia;Moravia;Silesia
+36;TrueOrFalse;The Lutine Bell can be found in Lloyds of London.;True;False;#NoAnswerHere;#NoAnswerHere
+37;DrinkOrDoIt;Choose a player and dance a waltz;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+39;TrueOrFalse;According to Scottish law, it is illegal to be drunk in charge of a cow.;True;False;#NoAnswerHere;#NoAnswerHere
+40;MultipChoice;In which century did the Hanseatic League's assembly last meet?;17th century;16th century;15th century;18th century
+41;MultipChoice;Where was the International Red Cross founded in 1864?;Geneva;Basel;Bern;Zurich
+42;TrueOrFalse;In the television series ‘Mork and Mindy’, Mindy was played by Erin Moran.;False;True;#NoAnswerHere;#NoAnswerHere
+43;TrueOrFalse; Marie Antoinette was married to Louis XVI of France.;True;False;#NoAnswerHere;#NoAnswerHere
+44;DrinkOrDoIt;Do 10 push-ups;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+45;MultipChoice;Which football club won the inaugural Wembley Cup tournament in July 2009?;Celtic;Hearts;Hibs;Rangers
+46;MultipChoice;The World Aquatics Championships opened in July 2009 in which Italian city?;Rome;Bologna;Milan;Turin
+47;TrueOrFalse;In the year 2020, Halloween will fall on a Tuesday.;False;True;#NoAnswerHere;#NoAnswerHere
+48;TrueOrFalse;The violent gang of youths in ‘A Clockwork Orange’ were called the ‘Groods’.;False;True;#NoAnswerHere;#NoAnswerHere
+49;DrinkOrDoIt;Dance to 'Rumadai' from Arsenium;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+50;DrinkOrDoIt;Dance with one of the players to 'Stamp on the ground' from ItaloBrothers;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+51;MultipChoice;Major General Ernest Swinton had a major influence on the development of what?;The tank;The artillery barrage;Barbed wire;The machine gun
+52;MultipChoice;In which US state is Kitty Hawk, where the Wright Brothers made their historic flight in 1903?;North Carolina;Maryland;South Carolina;Virginia
+53;TrueOrFalse;Danny Jones is a member of the band McFly.;True;False;#NoAnswerHere;#NoAnswerHere
+54;TrueOrFalse;A Dowager is the widow of a peer or a baronet?;True;False;#NoAnswerHere;#NoAnswerHere
+55;DrinkOrDoIt;Sing the Russian national anthem for a minute;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+56;DrinkOrDoIt;Sing 'Gangnam Style' from PSY;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+57;MultipChoice;In which state was country musician Merle Haggard born in 1937?;California;Alabama;New York;South Carolina
+58;MultipChoice;Which pop group had a 1992 hit with "Deeply Dippy"?;Right Said Fred;Color Me Badd;KWS;Shaggy
+59;MultipChoice;Which album by pop band Status Quo included the track "Break The Rules"?;Quo;Hello;On The Level;Piledriver
+60;TrueOrFalse;Quaker is another name for a Mormon;False;True;#NoAnswerHere;#NoAnswerHere
+61;TrueOrFalse;US President Theodore Roosevelt's son was called Kermit;True;False;#NoAnswerHere;#NoAnswerHere
+62;TrueOrFalse;Kangaroos are only an inch long at birth;True;False;#NoAnswerHere;#NoAnswerHere
+63;TrueOrFalse;Julie Andrews was the original Eliza Doolittle in My Fair lady;True;False;#NoAnswerHere;#NoAnswerHere
+64;DrinkOrDoIt;Do a salto!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+65;DrinkOrDoItQuest;Jump continuously for @3@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+66;MultipChoice;In 1901 the British engineer Hubert Cecil Booth patented the world's first powered what?;Vacuum cleaner;Lawnmower;Pram;Wheelchair
+67;MultipChoice;What is Volapuk, created by Johann Martin Schleyer in Germany in 1879-80?;An artificial language;A hangover cure;A monorail system;A vegetarian sausage
+68;MultipChoice;Which tennis player made his Davis Cup debut for Great Britain against Poland on Friday?;Dan Evans;Chris Evans;Godfrey Evans;Lee Evans
+69;TrueOrFalse;Male wasps have no sting;True;False;#NoAnswerHere;#NoAnswerHere
+70;TrueOrFalse;The Blue Boy was painted by Thomas Gainsborough;True;False;#NoAnswerHere;#NoAnswerHere
+71;TrueOrFalse;Princess Sophie of Greece is married to King Juan Carlos of Spain;True;False;#NoAnswerHere;#NoAnswerHere
+72;MultipChoice;In which year did Enya's "Orinoco Flow" hit the pop music charts?;1988;1986;1990;1992
+73;DrinkOrDoIt;Reveal one of your 'dark secrets';#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+74;DrinkOrDoItQuest;If you speak you have to drink one, for @5@ turns!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+75;DrinkOrDoItQuest;If you speak you have to drink one, for @2@ turns!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+76;MultipChoice; Who was the goalkeeper in the England women's football team that lost the Euro 2009 final against Germany?;Rachel Brown;Rachel Black;Rachel Green;Rachel White
+77;TrueOrFalse;A granny, a sheepshank and a bowline are all parts of chimney;False;True;#NoAnswerHere;#NoAnswerHere
+78;TrueOrFalse;John Moores University can be found in Liverpool;True;False;#NoAnswerHere;#NoAnswerHere
+79;MultipChoice;Which South American capital city is served by El Alto International Airport?;La Paz;Caracas;Buenos Aires;Lima
+80;DrinkOrDoIt;Do 12 sit ups;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+81;MultipChoice;Whom is the Queen's representative in Australia?;Governor-General;President;Prime Minister;Prince of New South Wales
+82;MultipChoice; What was the name of the Japanese Prime Minister who called an election in 2005?;Junichiro Koizumi;Katsuya Okada;Shizuka Kamei;Yasuo Tanaka
+83;DrinkOrDoIt;Kiss the first opposite gender player on your right;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+84;DrinkOrDoItQuest;If you speak everyone has to drink one for @5@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+85;MultipChoice;Of which African country was Jomo Kenyatta the first President?;Kenya;Malawi;Tanzania;Uganda
+86;TrueOrFalse;Picasso said "Art is a truth that lets us recognise a lie"?;False;True;#NoAnswerHere;#NoAnswerHere
+87;TrueOrFalse;Zoetrope was the Greek goddess of flowers?;False;True;#NoAnswerHere;#NoAnswerHere
+88;TrueOrFalse;Donald Trump's father was named Fred?;True;False;#NoAnswerHere;#NoAnswerHere
+89;MultipChoice;Which party did former Indian Prime Minister P.V. Narasimha Rao lead?;Congress;Bharatiya Janata;CPI-M;Janata Dal
+90;MultipChoice;What is the English translation of the name of Milan's famous opera house, La Scala?;The staircase;The music;The opera;The scale
+91;DrinkOrDoIt;Do the "Bring Sally Up" push-up challenge!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+92;DrinkOrDoIt;If you speak during the next turn, the player on your right can slap you!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+93;DrinkOrDoIt;Drink 1 sip from every player's drink!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+94;MultipChoice;In Venice, what is a vaporetto?;Waterbus;Barber's shop;Ice cream;Sauna
+95;MultipChoice;The Pizza Margherita was first produced in which city?;Naples;Bari;Florence;Turin
+96;TrueOrFalse;A red circle on a green background describes the flag of Sri Lanka?;False;True;#NoAnswerHere;#NoAnswerHere
+97;TrueOrFalse;Lincoln Cathedral was the tallest building in the world for 238 years between 1311 and 1549?;True;False;#NoAnswerHere;#NoAnswerHere
+98;TrueOrFalse;Martin Luther King and Anne Frank were born in the same year?;True;False;#NoAnswerHere;#NoAnswerHere
+99;DrinkOrDoIt;Reveal one of your 'dark secrets';#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+100;DrinkOrDoIt;Confess love to one of the players;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+101;MultipChoice;What is the square root of 784?;28;27;29;26
+102;MultipChoice;What results when the cube of 6 is added to the square root of 361?;235;233;198;197
+103;TrueOrFalse;Milhouse van Houten is Bart Simpson's best friend?;True;False;#NoAnswerHere;#NoAnswerHere
+104;TrueOrFalse;China did not win an olympic medal at the Summer Games until 1984?;True;False;#NoAnswerHere;#NoAnswerHere
+105;DrinkOrDoIt;Create a make up for the player on your left;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+106;DrinkOrDoIt;Choose a player, and eat food from his/her belly (only if the player agrees!);#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+107;DrinkOrDoItQuest;You have to say 'Garmisch Partenkirchen' in every sentence of yours, for @3@ turns!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+108;MultipChoice;If two sides of a right-angled triangle are 5cm and 12cm long, how long is the third side?;13cm;17cm;9cm;6cm
+109;MultipChoice;What is the next number in the series 3, 12, 102 ....?;1002;304;408;622
+110;MultipChoice;In which US state is Palomar Observatory?;California;Montana;Oregon;Utah
+111;TrueOrFalse;The national sport of Iceland is handball?;True;False;#NoAnswerHere;#NoAnswerHere
+112;TrueOrFalse;The term 'sol' is used by astronomers to refer to the duration of a solar day on Venus?;False;True;#NoAnswerHere;#NoAnswerHere
+113;TrueOrFalse;Rudyard Kipling won the Nobel Prize for Literature in 1937?;False;True;#NoAnswerHere;#NoAnswerHere
+116;DrinkOrDoItQuest#;The player named # has to sit on your lap for @7@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+117;MultipChoice;How much is 60% of 60?;36;38;32;34
+118;MultipChoice;Which is the only number between 620 and 629 which is divisible exactly by 7?;623;627;629;621
+119;MultipChoice;What is the area of a football pitch, 105 metres long and 80 metres wide?;8400 sq metres;8040 sq metres;8500 sq metres;8200 sq metres
+120;TrueOrFalse;The Isle of Wight was called Vectis by the Romans?;True;False;#NoAnswerHere;#NoAnswerHere
+121;TrueOrFalse;Four countries make up Great Britain?;False;True;#NoAnswerHere;#NoAnswerHere
+122;TrueOrFalse;Stephen Hawking first coined the phrase 'The Big Bang'?;False;True;#NoAnswerHere;#NoAnswerHere
+123;DrinkOrDoItQuest;Pass it and drink twice as much, or accept it and drink plus 2 for @3@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+124;DrinkOrDoIt#;The player named # can ask you to drink 8 times once during the game;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+125;DrinkOrDoIt#;Share one of your dirty thoughts with #. This player can pass it on to exactly one player any time.;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+126;MultipChoice;The winning dog of either sex in each breed at Crufts is awarded a CC. What do these initials signify?;Challenge Certificate;Challenge Champion;Crufts Certificate;Crufts Champion
+127;MultipChoice;James Bond was searching for what kind of airplane in 'Thunderball'?;Vulkan;707;Piper Cub;B-52
+128;MultipChoice;In which film do the words "I love you" save the planet earth?;The 5th Element;The Day After Tomorrow;Mars Attacks;Independence Day
+129;TrueOrFalse;Lightning never strikes in the same place twice.;False;True;#NoAnswerHere;#NoAnswerHere
+130;TrueOrFalse;If you cry in space the tears just stick to your face.;True;False;#NoAnswerHere;#NoAnswerHere
+131;TrueOrFalse;If you cut an earthworm in half, both halves can regrow their body.;False;True;#NoAnswerHere;#NoAnswerHere
+132;DrinkOrDoIt;Perform the most akward dance of all time!;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+133;DrinkOrDoItQuest;You cannot use your hands for @3@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+134;DrinkOrDoItQuest#;From now, if # drinks you drink as well for @5@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+135;MultipChoice;What does a nidoligist study?;Bird Nests;Waves;Clouds;Caves
+136;MultipChoice;Hypermetropic people are what?;far sighted;obese;underfed;moody
+137;MultipChoice;Fredrick Sanger invented which life saver?;Insulin;Safety Pin;Inflatable Life Raft;Aspirin
+138;TrueOrFalse;Humans can distinguish between over a trillion different smells.;True;False;#NoAnswerHere;#NoAnswerHere
+139;TrueOrFalse;Napoleon Bonaparte was extremely short.;False;True;#NoAnswerHere;#NoAnswerHere
+140;TrueOrFalse;There are more cells of bacteria in your body than there are human cells.;True;False;#NoAnswerHere;#NoAnswerHere
+141;DrinkOrDoItQuest;Choose 2 players, you are their god now for @4@ turns, if you drink any time, they drink too;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+142;DrinkOrDoItQuest;Mix the drinks which are next to you in a bottle, from now you have to drink this for @2@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+143;DrinkOrDoItQuest#;Each time you drink, you have to kiss # on the face for @4@ turns, but only if he/she is single;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+144;MultipChoice;Herodotus is known as the father of what?;History;Medicine;Theatre;Music
+145;MultipChoice;The title of which Pink Floyd album is also a chapter in 'The Wind In The Willows'?;The piper at the gates of dawn;Wish you were here;Meddle;Animals
+146;MultipChoice;Who wrote "don't count your chickens before they are hatched"?;Aesop;Shakespeare;Ben Franklin;Chaucer
+147;TrueOrFalse;It costs the U.S. Mint more to make pennies and nickels than the coins are actually worth.;True;False;#NoAnswerHere;#NoAnswerHere
+148;TrueOrFalse;Buzz Aldrin was the first man to urinate on the moon.;True;False;#NoAnswerHere;#NoAnswerHere
+149;TrueOrFalse;The popular image of Santa Claus – chubby, bearded, in red and white clothes – was invented by Coca-Cola for an ad campaign.;False;True;#NoAnswerHere;#NoAnswerHere
+150;DrinkOrDoIt;Tell the most akward story of yours;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+151;DrinkOrDoItQuest;Stand on 1 leg for @5@ turns, and each turn make an animal noise;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+152;DrinkOrDoItQuest#;Hug # but don't release him/her, and stay this way for @2@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+153;MultipChoice;Which pop duo was the first western band to play in The Peoples Republic of China?;Wham;Simon and Garfunkel;Chas and Dave;Right Said Fred
+154;MultipChoice;Speed skating originated in which country?;Netherlands;Canada;Norway;Russia
+155;MultipChoice;In which year did Louis Reard invent the bikini?;1946;1966;1906;1926
+156;TrueOrFalse;The owner of the company that makes Segways died after accidentally driving his Segway off a cliff.;True;False;#NoAnswerHere;#NoAnswerHere
+157;TrueOrFalse;Japanese snooker tables have shorter legs than normal ones?;True;False;#NoAnswerHere;#NoAnswerHere
+158;TrueOrFalse;Hollywood film idol Rudolf Valentino choked to death on a golden dildo?;False;True;#NoAnswerHere;#NoAnswerHere
+159;DrinkOrDoItQuest;You have the power to silence 2 players for @2@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+160;DrinkOrDoItQuest#;Switch names with # for @4@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+161;DrinkOrDoItQuest#;From now your hands are not working, you can use #'s hands for @2@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+162;MultipChoice;Julius Caesar said "The die is cast" after crossing which river?;Rubicon;Thames;Tiber;Danube
+163;MultipChoice;Doris Day had a sleepy hit with which song?;Pillow talk;Golden slumbers;The beds too big without you;Tears on my pillow
+164;MultipChoice;What part of the body does a turtle use to breathe?;Anus;Belly;Shell;Mouth
+165;TrueOrFalse;A Zeedonk is the offspring from a Zebra and a Donkey;True;False;#NoAnswerHere;#NoAnswerHere
+166;TrueOrFalse;Between 1937 & 1945 in Germany, Heinz did a version of tinned spaghetti shaped like swastikas;True;False;#NoAnswerHere;#NoAnswerHere
+167;TrueOrFalse;Hair yanked out by the roots will not grow back;False;True;#NoAnswerHere;#NoAnswerHere
+168;DrinkOrDoIt;Create a makeup for yourself, while you close your eyes;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+169;DrinkOrDoItQuest#;Swap drinks with #, for @3@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+170;DrinkOrDoIt#;Dance with # to the song 'Dancing in the Moonlight';#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+171;MultipChoice;Which of these countries produces most of the world's diamonds?;South Africa;Peru;Sudan;Kenya
+172;MultipChoice;What is a female deer called?;dear;buck;doe;stag
+173;MultipChoice;In the field of science, was does REM stand for?;Rapid Eye Movement;Radioactive Eletro Magnetic;Rapid Energy Motion;Radioactive Energy in Motion
+174;TrueOrFalse;It rains diamonds on Saturn and Jupiter;True;False;#NoAnswerHere;#NoAnswerHere
+175;TrueOrFalse;Black holes aren't black;True;False;#NoAnswerHere;#NoAnswerHere
+176;TrueOrFalse;Bananas grow on trees;False;True;#NoAnswerHere;#NoAnswerHere
+177;DrinkOrDoIt#;Sing 'September' from Earth, Wind & Fire with # for a minute;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+178;DrinkOrDoIt;Tell the story of your first time when you got really drunk;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+179;DrinkOrDoItQuest;From now you cannot use the letter 'e' for @4@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+180;MultipChoice;What is 2010 in roman numerals?;MMX;XMM;XMX;MCXX
+181;MultipChoice;A Tsunami is a?;A giant wave;A cyclone;An earthquake;An avalanche
+182;MultipChoice;What part of the human body is the 'oxter'?;The armpit;The upper back;The neck;The chest
+183;TrueOrFalse;If a piece of paper was folded 45 times, it would reach to the moon;True;False;#NoAnswerHere;#NoAnswerHere
+184;TrueOrFalse;Carrots help you see in the dark;False;True;#NoAnswerHere;#NoAnswerHere
+185;TrueOrFalse;Oxford University is older than the Aztec Empire;True;False;#NoAnswerHere;#NoAnswerHere
+186;DrinkOrDoIt#;Choose: 2 slaps from #, or 8 sips now. You cannot pass this question;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+187;DrinkOrDoIt;Close your eyes! Spin 4 times, and touch somebody. He/she has to drink 1 sip ;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+188;DrinkOrDoItQuest;Every second person starting with you sit one right for @2@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+189;MultipChoice;Piano Sonata No. 14, commonly known as the Moonlight Sonata, was written by?;Beethoven;Mozart;Chopin;Bach
+190;MultipChoice;Benidorm and Alicante are situated on which of the Spanish 'costas'?;Blanca;Brava;Del Sol;Dorada
+191;MultipChoice;Which of these is the largest museum?;Smithsonian, Washington;The Louvre, Paris;Natural History Museum, London;Guggenheim, New York
+192;TrueOrFalse;There are more fake flamingos in the world than real ones;True;False;#NoAnswerHere;#NoAnswerHere
+193;TrueOrFalse;Russia has a larger surface area than Pluto;True;False;#NoAnswerHere;#NoAnswerHere
+194;TrueOrFalse;Shaving makes hair grow back faster;False;True;#NoAnswerHere;#NoAnswerHere
+195;DrinkOrDoItQuest;If any of the players drink, you drink as well, for @4@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+196;DrinkOrDoItQuest#;You have to hold #'s right hand with your left hand for @3@ turns;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere
+197;DrinkOrDoIt#;You can ask a truth or dare question from #.;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere;#NoAnswerHere

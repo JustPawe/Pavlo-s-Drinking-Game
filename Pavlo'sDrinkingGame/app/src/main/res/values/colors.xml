@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainScreenBackground">#76ed2d</color>
+    <color name="blueScreenColor">#2c80ed</color>
+    <color name="yellowScreenColor">#f1fc20</color>
+    <color name="purpleScreencolor">#a949d8</color>
+    <color name="redBackground">#f41616</color>
+    <color name="greenBackground">#09ef1c</color>
+    <color name="orangeBG">#ff8a05</color>
+    <color name="white">#ffffff</color>
+
+</resources>
